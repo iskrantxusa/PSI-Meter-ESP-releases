@@ -2,7 +2,7 @@
 
 A minimalist training experience in attention, intuition and timing.
 
-[Download the latest signed APK](https://github.com/iskrantxusa/PSI-Meter-ESP-releases/releases/latest/download/PSI-Meter-ESP.apk) · [Website](https://extra-sense-lab.com/en/psi-meter-esp) · [Release history](https://github.com/iskrantxusa/PSI-Meter-ESP-releases/releases)
+The first public APK release is being prepared. [Website](https://extra-sense-lab.com/en/psi-meter-esp) · [Release history](https://github.com/iskrantxusa/PSI-Meter-ESP-releases/releases)
 
 Requires Android 6.0 or newer. Download the APK and open it. If Android asks, allow your browser to install apps from this source, then confirm installation.
 
